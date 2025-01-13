@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,intellij,eclipse,visualstudiocode,maven,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,intellij,eclipse,visualstudiocode,maven,gradle
 
+mail.properties
 ### Eclipse ###
 .metadata
 bin/
